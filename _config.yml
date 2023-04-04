@@ -1,0 +1,18 @@
+title: CSC413/2516 Neural Networks and Deep Learning (Winter 2020)
+description: CSC413/2516-2020 course website
+sitename: CSC413-2020
+baseurl: ''
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - contents
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+markdown: kramdown
+
+theme: jekyll-theme-cayman
