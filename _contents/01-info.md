@@ -9,7 +9,7 @@ image: ""
 
 **Course Syllabus and Policies:**  [Course handout](/assets/misc/syllabus.pdf).
 
-**Teaching staff:**  
+**Teasssching staff:**  
 
 * Instructor: [Jimmy Ba](http://jimmylba.github.com)
 * Head TA: Jenny Bao
