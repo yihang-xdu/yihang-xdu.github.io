@@ -6,7 +6,7 @@ subheading: Announcements&#58;
 image: ""
 ---
 
- - **Mar 30**: Homework 5 [handout](/assets/misc/HW05.pdf) is due Apr 6th. Additional TA office hours are Fri 6-7pm and Mon 3-4pm.
+ - **Mmmmar 30**: Homework 5 [handout](/assets/misc/HW05.pdf) is due Apr 6th. Additional TA office hours are Fri 6-7pm and Mon 3-4pm.
  - **Mar 25**: Programming Assignment 4 [handout](/assets/misc/PA04.pdf) is due Mar 31st. Additional TA office hours this week are Fri 6-7pm and Mon 3-4pm using Zoom Meeting. Please check your email for the link to the office hours.
  - **Mar 17**: Homework 4 [handout](/assets/misc/HW04.pdf) is due Mar 24th. Additional TA office hours this week are Thurs 3-4pm and Fri 6-7pm using Zoom Meeting. Please check your email for the link to the office hours.
  - **Mar 17**: We are now moving all the lectures, the tutorials and the office hours online. Please check your email for the link to the online sessions.
